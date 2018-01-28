@@ -19,7 +19,7 @@ gem 'capistrano-php-fpm'
 
 ## Usage
 
-Require one of the above modules (Environments Supported) in your `Capfile`:
+Require one of the above 'Environments Supported' in your `Capfile`:
 
 ```ruby
 require 'capistrano/php_fpm/sysv_upstart'
