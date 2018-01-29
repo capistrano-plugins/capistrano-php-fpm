@@ -72,6 +72,8 @@ If something is not working for you, or you find a bug please report it.
 ### Thanks
 
 * [Sullivan Senechal](https://github.com/Soullivaneuh) @ [NexyLan](https://www.nexylan.com) - Original creator of sysv & upstart code plugin this is heavily based on
+* [Emil Kilhage](https://github.com/kilhage) - For letting us use https://rubygems.org/gems/capistrano-php-fpm
+
 
 ### License
 
