@@ -56,6 +56,7 @@ Configurable options shown here are also the defaults:
 set :php_fpm_with_sudo, true
 set :php_fpm_roles, :web
 set :php_fpm_service_name, 'php-fpm' # Change this if you have non-standard naming for the php-fpm service
+set :php_fpm_service_suffix, '.service' # Only used for systemd environment, change this if your service name is not sufixed by this
 set :systemctl_location, '/bin/systemctl' # May already exist if you use other plugins. Be sure to check your config/deploy/{env} file
 ```
 
