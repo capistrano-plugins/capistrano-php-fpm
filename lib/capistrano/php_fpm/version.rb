@@ -1,5 +1,5 @@
 module Capistrano
   module PHP_FPM
-    VERSION = '2.0.1'
+    VERSION = '2.1.1'
   end
 end
